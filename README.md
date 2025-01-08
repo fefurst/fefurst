@@ -6,8 +6,8 @@
 👨‍💻 Curious Software Engineer Guy<br>
 
 
-![Estatísticas do github de fefurst](https://github-readme-stats.vercel.app/api?username=fefurst&count_private=true&show_icons=true&theme=dark)
-
+![Estatísticas do github de fefurst](https://github-readme-stats.vercel.app/api?username=fefurst&count_private=true&line_height=20&show_icons=true&theme=dark&card_width=400)
+![Estatísticas do github de fefurst](https://github-readme-stats.vercel.app/api/top-langs?username=fefurst&theme=dark&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400)
 
 <!--
 **fefurst/fefurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
